@@ -7,7 +7,7 @@ Responsive ❌
 
 ## Live page
 
-- [Landing page](https://github.com/NayroFr/landing-page/)
+- [Landing page](https://nayrofr.github.io/OdinProject-LandingPage/)
 
 ## Images credits
 
